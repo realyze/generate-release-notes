@@ -9,5 +9,5 @@
 7. PROFIT!!!
 
 You'll need:
-1. Either `${HOME}/.pr-train` or `github.apiKey` key in your git config.
+1. Either `${HOME}/.pr-train` (with a sinlge line that is GH API key)  or `github.apiKey` key in your git config.
 2. `user.name` key in your global git config
